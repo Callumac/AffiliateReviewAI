@@ -1,0 +1,2 @@
+# AffiliateReviewAI
+AI Product Review 
